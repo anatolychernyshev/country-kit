@@ -1,0 +1,2 @@
+include ':app', ':countrykit'
+rootProject.name='CountryKitExample'
